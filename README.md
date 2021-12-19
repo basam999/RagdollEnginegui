@@ -83,7 +83,7 @@ local LP = game:service('Players').LocalPlayer
 local MOUSE = LP:GetMouse()
 
 MOUSE.KeyDown:connect(function(KEY)
- if KEY:lower() == 'x' then
+ if KEY:lower() == 'c' then
     local LP = game:service('Players').LocalPlayer
 local MOUSE = LP:GetMouse()
 
